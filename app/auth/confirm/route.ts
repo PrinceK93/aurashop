@@ -20,7 +20,7 @@ export async function GET(request: NextRequest) {
       // redirect user to specified redirect URL or root of app
       redirect(next);
     } else {
-      // redirect the user to an error page with some instructions
+     
       redirect(`/auth/error?error=${error?.message}`);
     }
   }
