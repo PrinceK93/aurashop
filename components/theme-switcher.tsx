@@ -25,7 +25,7 @@ const ThemeSwitcher = () => {
   }
 
   const ICON_SIZE = 16;
-
+ 
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
