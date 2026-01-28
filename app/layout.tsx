@@ -9,7 +9,7 @@ export const metadata = {
   title: "AuraShop", 
   description: "Find your style with AI-powered visual search.", 
 }; 
- 
+  
 export default function RootLayout({
   children,
 }: {
