@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Search } from "lucide-react";
 import Link from "next/link";
 
-export default function HomePage() {
+export default function HomePage() { 
   return (
     <div className="container py-8">
       {/* === Hero Section === */}
