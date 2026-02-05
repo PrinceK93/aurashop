@@ -8,7 +8,7 @@ export default function HomePage() {
     <div className="container py-8">
       {/* === Hero Section === */}
       <section className="relative mb-16 rounded-lg bg-gray-100 p-8 text-center">
-        <h1 className="mb-4 text-4xl font-bold">
+        <h1 className="mb-4 text-4xl font-bold"> 
           Find Your Style, Visually
         </h1>
         <p className="mb-6 text-lg text-muted-foreground">
