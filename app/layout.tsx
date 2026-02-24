@@ -5,7 +5,7 @@ import { AuthButton } from "./ui/auth-button"; // Optional: for dark mode if you
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {  
+export const metadata = {   
   title: "AuraShop", 
   description: "Find your style with AI-powered visual search.", 
 }; 
