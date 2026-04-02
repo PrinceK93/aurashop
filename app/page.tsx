@@ -4,12 +4,12 @@ import { Search } from "lucide-react";
 import Link from "next/link";
 
 export default function HomePage() { 
-  return (
+  return ( 
     <div className="container py-8">
       {/* === Hero Section === */}
       <section className="relative mb-16 rounded-lg bg-gray-100 p-8 text-center">
         <h1 className="mb-4 text-4xl font-bold"> 
-          Find Your Style, Visually
+          Find Your Style, Visually.
         </h1>
         <p className="mb-6 text-lg text-muted-foreground">
           Upload a photo and let our AI find the perfect item for you.
